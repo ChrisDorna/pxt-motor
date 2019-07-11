@@ -248,9 +248,8 @@ namespace motor {
     }
 
     /**
-	 * Execute a motor
-     * M1~M4.
-     * speed(0~255).
+	 * Laat motor M1~M4 draaien.
+     * snelheid(0~255).
     */
     //% weight=90
     //% blockId=motor_MotorRun block="Motor|%index|dir|%Dir|snelheid|%speed"
